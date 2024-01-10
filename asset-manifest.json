@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todomachine-martin/static/css/main.c0a42990.css",
+    "main.js": "/todomachine-martin/static/js/main.6eefc4fd.js",
+    "index.html": "/todomachine-martin/index.html",
+    "static/media/delete.svg": "/todomachine-martin/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/todomachine-martin/static/media/check.0ea0e613a5de39c390121193ae6d5478.svg",
+    "main.c0a42990.css.map": "/todomachine-martin/static/css/main.c0a42990.css.map",
+    "main.6eefc4fd.js.map": "/todomachine-martin/static/js/main.6eefc4fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a42990.css",
+    "static/js/main.6eefc4fd.js"
+  ]
+}
